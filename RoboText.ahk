@@ -151,7 +151,7 @@ Menu, Tray, add, Set Variable, MenuHandler   ; Create a new menu item.
   SetWorkingDir %DOWNLOADS_DIR%
 	Run %DOWNLOADS_DIR%\VolumeOSD.ahk
 
-;CreateToDoListForWeek()
+CreateToDoListForWeek()
 
 ;---------------------------------
 ; Handle script exit

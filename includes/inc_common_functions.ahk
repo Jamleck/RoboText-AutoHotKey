@@ -69,9 +69,9 @@ CreateToDoListForWeek()
 	if not fileexist(filename)
 	{
 		fileappend,%title%, %filename%
+		
+		run %filename%
 	}
-	
-	run %filename%
 }
 
 ;Check the temp folder for a file matching a pattern
