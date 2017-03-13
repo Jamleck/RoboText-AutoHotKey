@@ -8,6 +8,7 @@
 ;;  Date:		20/09/2012  - Added timers.
 ;;  Date:		08/05/2013  - Joined CC
 ;;  Date: 		09/05/2014	- Rewritten to use a .ini file for configuration.
+;;  Date: 		13/03/2017	- Brunching testing
 
 ;---------------------------------
 ; CONFIGURATION
